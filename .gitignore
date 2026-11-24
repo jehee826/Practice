@@ -1,0 +1,12 @@
+# 전체적용
+.env
+
+#SpingBoot
+.gradle/
+build/
+bin/
+
+
+#FastAPI
+
+
